@@ -2,8 +2,8 @@
 name: "酷酷汽水的小窝"
 title: "Memoirs"
 description: "一万年太久，只争朝夕！"
-logo: 'assets/images/chebuico.png'
-favicon: 'assets/images/chebuico.png'
+logo: 'assets/images/chebuIco.png'
+favicon: 'assets/images/chebuIco.png'
 # baseurl: /
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
