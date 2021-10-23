@@ -52,6 +52,11 @@ permalink:        /:categories/:year-:month-:day-:title:output_ext
 
 exclude:
   - _drafts
+  - _posts/2019-04-27-why.md
+  - _posts/2019-04-28-howto.md
+  - _posts/2019-04-29-license.md
+  - _posts/2021-08-10-toc.md
+
 
 destination:      ./_site
 incremental:      false
